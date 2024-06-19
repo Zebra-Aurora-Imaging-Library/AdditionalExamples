@@ -1,4 +1,4 @@
-# Simple3dStitching_MXSP4
+# MdigDoubleBuffering_MXSP6
 
 Date: 04/05/2024
 

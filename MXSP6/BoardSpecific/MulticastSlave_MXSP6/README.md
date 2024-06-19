@@ -1,4 +1,4 @@
-# Simple3dStitching_MXSP4
+# MulticastSlave_MXSP6
 
 Date: 04/05/2024
 

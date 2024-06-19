@@ -1,4 +1,4 @@
-# Simple3dStitching_MXSP4
+# MdigProcessMultiple_MXSP6
 
 Date: 04/05/2024
 
